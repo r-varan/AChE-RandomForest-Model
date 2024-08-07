@@ -25,7 +25,7 @@ scikit-learn
 
 You also need to run a script that provides custom functions for the Predictor Tool PADEL. PADEL is a software tool used for creating a 'molecular fingerprint' along with descriptors for your biomolecule from SMILES strings (biomolecule chemical structure). This is the ultimate input that will be used for predicting the inhibition force of a biomolecule. To access the script go to: 
 - https://github.com/dataprofessor/bioinformatics/raw/master/padel.zip
-- wget https://github.com/dataprofessor/bioinformatics/raw/master/padel.sh
+- https://github.com/dataprofessor/bioinformatics/raw/master/padel.sh
 
 ## Script Breakdown
 
